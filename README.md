@@ -77,26 +77,6 @@ Cluster analysis will help us group items based on their characteristics and usa
 - Analyze the characteristics of each cluster to understand common traits
 - Identify clusters of items that may need review or improvement
 
-## Getting Started
-
-To get started with the analysis, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Item-Bank-Analysis.git
-   cd Item-Bank-Analysis
-   ```
-
-2. Install the necessary dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the initial EDA script to get an overview of the data:
-   ```bash
-   python scripts/eda.py
-   ```
-
 
 ## License
 
